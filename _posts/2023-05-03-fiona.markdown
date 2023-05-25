@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Welcome to our world"
+date: 2023-05-03 10:50:34 +0100
+categories: Life at WNC
+image: /img/home.jpg
+author: Fiona
+intro: What a wonderful world we live in.
+intro_image: /img/home.jpg
+intro_image_ratio: is-16by9
+---
+
+# Welcome to our lives at WNC
+---
+
+## In the beginning 
+There was a large building with lots of people working for DDC.
+
+## At the end
+There was Fiona and Mike and no DDC left only WNC AND LOTS OF GREAT OPPORTUNITIES!!!!!!!! :-)
+
+The end.
